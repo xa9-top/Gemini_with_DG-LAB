@@ -1,0 +1,4 @@
+pydglab-ws
+openai==1.86.0
+qrcode
+colorama
